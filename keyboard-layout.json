@@ -1,0 +1,30 @@
+[
+  [
+    "Num Lock",
+    "/",
+    "*",
+    "-"
+  ],
+  [
+    "1",
+    "2\nA\n\nC\n\n\n\n\n\n\nB",
+    "3\nD\n\nF\n\n\n\n\n\n\nE",
+    "+"
+  ],
+  [
+    "4\nG\n\nI\n\n\n\n\n\n\nH",
+    "5\nJ\n\nL\n\n\n\n\n\n\nK",
+    "6\nM\n\nO\n\n\n\n\n\n\nN",
+    "\nCom"
+  ],
+  [
+    "7\nS\n\n\n\n\nP\nR\n\nQ",
+    "8\nT\n\nV\n\n\n\n\n\n\nU",
+    "9\nZ\n\n\n\n\nW\nY\n\nX"
+  ],
+  [
+    "0\nIns",
+    ".\nDel",
+    "Enter"
+  ]
+]
