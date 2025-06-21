@@ -1,0 +1,14 @@
+.pretty folders store footprints. Individual footprints are stored in .kicad_mod files 
+
+.kicad_sym store symbol libraries. 
+
+
+.dcm & .lib work together to store symbol libraries. 
+.mod works to store footprints
+
+.dcm, .mod, .lib are legacy & redundant file storage methods since version 5.x.x
+
+
+The 3d folder will store the 3d models which you can sometimes add to footprints.
+
+The newest version of kicad has a new library type called "design blocks" which use the .kicad_blocks file format. Design blocks allow you to reuse schematics. We are not using the feature yet.

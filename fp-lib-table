@@ -1,3 +1,4 @@
 (fp_lib_table
   (version 7)
+  (lib (name "LM386M-1_NOBP")(type "KiCad")(uri "${KIPRJMOD}/lib/LM386M-1_NOBP.pretty")(options "")(descr "Footprint lib for that one audio thingy"))
 )
