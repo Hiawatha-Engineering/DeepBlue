@@ -1,3 +1,5 @@
 (sym_lib_table
+  (version 7)
   (lib (name "raspberrypi-gpio-40pin-rescue")(type "Legacy")(uri "${KIPRJMOD}/raspberrypi-gpio-40pin-rescue.lib")(options "")(descr ""))
+  (lib (name "DeepBlue")(type "KiCad")(uri "${KIPRJMOD}/DeepBlue.kicad_sym")(options "")(descr ""))
 )
