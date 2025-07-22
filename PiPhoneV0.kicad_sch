@@ -5161,7 +5161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_3x5.3"
 			(at 109.22 101.6 0)
 			(effects
 				(font
@@ -5294,7 +5294,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 205.74 102.87 0)
 			(effects
 				(font
@@ -5364,7 +5364,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 205.74 91.44 0)
 			(effects
 				(font
@@ -5696,7 +5696,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 205.74 68.58 0)
 			(effects
 				(font
@@ -5834,7 +5834,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 205.74 80.01 0)
 			(effects
 				(font
@@ -6171,7 +6171,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 66.548 121.92 90)
 			(effects
 				(font
@@ -6241,7 +6241,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 165.1 68.58 0)
 			(effects
 				(font
@@ -6381,7 +6381,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 165.1 80.01 0)
 			(effects
 				(font
@@ -6451,7 +6451,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 185.42 45.72 0)
 			(effects
 				(font
@@ -6521,7 +6521,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 165.1 102.87 0)
 			(effects
 				(font
@@ -6591,7 +6591,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 185.42 102.87 0)
 			(effects
 				(font
@@ -6729,7 +6729,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 205.74 45.72 0)
 			(effects
 				(font
@@ -6862,7 +6862,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 165.1 45.72 0)
 			(effects
 				(font
@@ -6932,7 +6932,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 165.1 91.44 0)
 			(effects
 				(font
@@ -7067,7 +7067,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_3x5.3"
 			(at 121.92 124.46 0)
 			(effects
 				(font
@@ -7137,7 +7137,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 165.1 57.15 0)
 			(effects
 				(font
@@ -7207,7 +7207,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 117.1448 107.95 0)
 			(effects
 				(font
@@ -7345,7 +7345,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 185.42 91.44 0)
 			(effects
 				(font
@@ -7550,7 +7550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 112.7252 132.08 0)
 			(effects
 				(font
@@ -7684,7 +7684,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 185.42 68.58 0)
 			(effects
 				(font
@@ -8154,7 +8154,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 205.74 57.15 0)
 			(effects
 				(font
@@ -8224,7 +8224,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 185.42 57.15 0)
 			(effects
 				(font
@@ -8430,7 +8430,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_5KPW_P12.70mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
 			(at 185.42 80.01 0)
 			(effects
 				(font
