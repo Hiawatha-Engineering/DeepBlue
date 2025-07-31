@@ -5026,7 +5026,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 157.48 82.55 0)
 			(effects
 				(font
@@ -5094,7 +5094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 177.8 59.69 0)
 			(effects
 				(font
@@ -5432,7 +5432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 198.12 93.98 0)
 			(effects
 				(font
@@ -5626,7 +5626,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 177.8 93.98 0)
 			(effects
 				(font
@@ -5764,7 +5764,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 198.12 71.12 0)
 			(effects
 				(font
@@ -5902,7 +5902,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 177.8 71.12 0)
 			(effects
 				(font
@@ -6033,7 +6033,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 157.48 36.83 0)
 			(effects
 				(font
@@ -6101,7 +6101,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 177.8 48.26 0)
 			(effects
 				(font
@@ -6659,7 +6659,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 198.12 59.69 0)
 			(effects
 				(font
@@ -7000,7 +7000,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 177.8 82.55 0)
 			(effects
 				(font
@@ -7275,7 +7275,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 177.8 36.83 0)
 			(effects
 				(font
@@ -7413,7 +7413,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 198.12 82.55 0)
 			(effects
 				(font
@@ -7481,7 +7481,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 157.48 71.12 0)
 			(effects
 				(font
@@ -7890,7 +7890,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 157.48 93.98 0)
 			(effects
 				(font
@@ -8084,7 +8084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 157.48 48.26 0)
 			(effects
 				(font
@@ -8292,7 +8292,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 157.48 59.69 0)
 			(effects
 				(font
@@ -8360,7 +8360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 198.12 36.83 0)
 			(effects
 				(font
@@ -8498,7 +8498,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB"
+		(property "Footprint" "1 key-switches.pretty:SW_MX_LowProfile_THT"
 			(at 198.12 48.26 0)
 			(effects
 				(font
