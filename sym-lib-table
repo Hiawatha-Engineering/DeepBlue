@@ -4,4 +4,6 @@
   (lib (name "PiPhone Symbols")(type "KiCad")(uri "${KIPRJMOD}/PiPhoneV0.kicad_sym")(options "")(descr ""))
   (lib (name "CustomSymbols")(type "KiCad")(uri "${KIPRJMOD}/lib/CustomSymbols.kicad_sym")(options "")(descr ""))
   (lib (name "LM386M-1_NOPB")(type "Legacy")(uri "${KIPRJMOD}/lib/LM386M-1_NOPB.lib")(options "")(descr ""))
+  (lib (name "PiPhoneV0")(type "KiCad")(uri "${KIPRJMOD}/PiPhoneV0.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS61161DRVR")(type "KiCad")(uri "${KIPRJMOD}/ul_TPS61161DRVR/KiCADv6/2025-08-21_21-31-18.kicad_sym")(options "")(descr ""))
 )
