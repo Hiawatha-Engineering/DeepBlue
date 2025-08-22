@@ -13988,6 +13988,17 @@
 		(uuid "19032aa0-82b6-4dfe-b824-c3b0cd10aa72")
 	)
 	(gr_arc
+		(start 98.25 204.25)
+		(mid 95.59835 203.15165)
+		(end 94.5 200.5)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "1fcfdc50-7e97-4a64-bd43-4aa84b8800b4")
+	)
+	(gr_arc
 		(start 165 113)
 		(mid 164.267767 114.767767)
 		(end 162.5 115.5)
@@ -14048,28 +14059,6 @@
 		(layer "Edge.Cuts")
 		(uuid "7d22fdca-55ee-4a31-bfd8-44872cdd6e48")
 	)
-	(gr_arc
-		(start 159.5 200.5)
-		(mid 157.742641 204.742641)
-		(end 153.5 206.5)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "81bc0db7-01df-4b79-88a4-23be0f32677f")
-	)
-	(gr_arc
-		(start 100.5 206.5)
-		(mid 96.257359 204.742641)
-		(end 94.5 200.5)
-		(stroke
-			(width 0.2)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "95e4e607-d052-48a0-a1eb-75bf8a3c2fd3")
-	)
 	(gr_line
 		(start 106 89)
 		(end 159 89)
@@ -14114,14 +14103,25 @@
 		(uuid "dc152a76-32de-45b9-b4d4-554d25d586b2")
 	)
 	(gr_line
-		(start 100.5 206.5)
-		(end 153.5 206.5)
+		(start 155.75 204.25)
+		(end 98.25 204.25)
 		(stroke
 			(width 0.2)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "febe69e4-607d-47b8-9874-5ee9eb52363d")
+		(uuid "eac3ae3c-1f08-47a1-8a76-43c10ed6b1b2")
+	)
+	(gr_arc
+		(start 159.5 200.5)
+		(mid 158.40165 203.15165)
+		(end 155.75 204.25)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "fde2d7cd-2f39-4047-b21d-79663ccbd069")
 	)
 	(gr_text "Extend PCB edge 0.5mm if using SMT header"
 		(at 103 42.5 0)
