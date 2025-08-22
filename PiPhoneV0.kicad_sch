@@ -5733,6 +5733,16 @@
 		)
 		(uuid "a8803721-6fa9-4442-90ed-450a58238246")
 	)
+	(text "R2 is protecting the LED\n12.8v 40mA"
+		(exclude_from_sim no)
+		(at 540.004 147.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b9357794-dd61-4f9b-aeb3-51ec0fd83f6e")
+	)
 	(text "Keyboard"
 		(exclude_from_sim no)
 		(at 258.826 125.222 0)
@@ -14813,7 +14823,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 433.8256 122.8217 0)
+			(at 433.832 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
