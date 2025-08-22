@@ -6485,6 +6485,16 @@
 	)
 	(wire
 		(pts
+			(xy 524.51 142.24) (xy 529.59 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e8c6b6b-3d94-4fb2-be70-47c298e55e13")
+	)
+	(wire
+		(pts
 			(xy 165.1 95.25) (xy 185.42 95.25)
 		)
 		(stroke
@@ -7355,16 +7365,6 @@
 	)
 	(wire
 		(pts
-			(xy 516.89 142.24) (xy 529.59 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "839cd6af-9943-4a8f-862f-54df164ba63a")
-	)
-	(wire
-		(pts
 			(xy 433.07 91.44) (xy 433.07 105.41)
 		)
 		(stroke
@@ -7425,7 +7425,7 @@
 	)
 	(wire
 		(pts
-			(xy 471.17 138.43) (xy 472.44 138.43)
+			(xy 464.82 138.43) (xy 472.44 138.43)
 		)
 		(stroke
 			(width 0)
@@ -12354,6 +12354,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 520.7 142.24 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "32242850-f2a4-4792-82f4-6f17abf022e9")
+		(property "Reference" "R2"
+			(at 520.7 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "320"
+			(at 520.7 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 520.7 144.018 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 520.7 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 520.7 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "28130dae-9df2-487e-944a-fb0b42822c5e")
+		)
+		(pin "1"
+			(uuid "7d885ab8-6845-4b3a-8d4c-10eded0be0ba")
+		)
+		(instances
+			(project ""
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:D")
 		(at 205.74 68.58 90)
 		(unit 1)
@@ -12762,7 +12830,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 471.17 138.43 90)
+		(at 464.82 138.43 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12770,7 +12838,7 @@
 		(dnp no)
 		(uuid "58ad5630-7319-465e-a865-df7375d34652")
 		(property "Reference" "#PWR019"
-			(at 474.98 138.43 0)
+			(at 468.63 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12779,7 +12847,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 466.8456 138.0617 0)
+			(at 460.4956 138.0617 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12787,7 +12855,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 471.17 138.43 0)
+			(at 464.82 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12795,7 +12863,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 471.17 138.43 0)
+			(at 464.82 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12803,7 +12871,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 471.17 138.43 0)
+			(at 464.82 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
