@@ -14,7 +14,8 @@ have it's footprints placed with the aptly named `Keyboard layout placer`
 plugin. I played with Edge.Cuts for a while to try to get a good looking PCB,
 but right now it's slightly too big. 
 
-[insert pictures of what you're working on!]
+![](./Images/june1pcb.png)
+![](./Images/june1sch.png)
 
 **Total time spent: 3h**
 
@@ -24,7 +25,8 @@ Following some tutorials online I find speaker + amplifier setup to replicate so
 the Pi can emit sounds. I also end up figuring out the difference between SMD
 and THT.
 
-[insert pictures of what you're working on!]
+![](./Images/jun20pcb.png)
+![](./Images/jun20sch.png)
 
 **Total time spent: 1h**
 
@@ -46,7 +48,7 @@ idea where we're at in terms of design. I flip the 40pin header to let us expose
 I massively reduce the amount of space the PCB takes up, I also shift the
 keyboard from the pin header to allow the keyboard to be centered.
 
-[insert pictures of what you're working on!]
+![](./Images/july22pcb.png)
 
 **Total time spent: 20m**
 
@@ -57,7 +59,7 @@ and realizing the Pi would be be unable to produce analog signals without a DAC,
 so to reduce complexity and focus on bare minimum functionality I remove the
 design.
 
-[insert pictures of what you're working on!]
+![](./Images/august5pcb.png)
 
 **Total time spent: 2h**
 
@@ -73,7 +75,8 @@ backlight. The led is rated for 12.8v at 40mA which is not what the Pi natively
 produces. So we need an additional boost converter to turn down the current and
 pump up the volts.
 
-[insert pictures of what you're working on!]
+![](./Images/august21pcb.png)
+![](./Images/august21sch.png)
 
 **Total time spent: 6h**
 
