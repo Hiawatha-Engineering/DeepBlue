@@ -1,6 +1,6 @@
 ---
 Title: "Phone"
-Author: "Fox Ellison-Taylor + Bear Weston"
+Author: "Fox + Bear"
 Description: "A Raspberry Pi Hat to enable keyboard and screen interaction."
 Created On: "1/6/2025"
 ---
@@ -70,7 +70,7 @@ arriving we find it's port, while also being an FFC MIPI device does not have
 the same DSI protocol nor the same type of connector instead of looking for a
 new screen we decide to make an adapter converting the DSI signals from the Pi
 to RGB using a chip sugested on the Adafruit listing. I spend a ton of time just
-reviewing the three douments checking wiring. An additional complication is the
+reviewing the three documents checking wiring. An additional complication is the
 backlight. The led is rated for 12.8v at 40mA which is not what the Pi natively
 produces. So we need an additional boost converter to turn down the current and
 pump up the volts.
