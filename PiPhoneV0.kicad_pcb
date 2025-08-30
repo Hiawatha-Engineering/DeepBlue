@@ -12926,7 +12926,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "ICN6211"
 			(at 0 -4.33 90)
 			(layer "B.Fab")
 			(uuid "198b7f97-8626-48fc-8afe-ec49271c3b63")
@@ -19282,6 +19282,22 @@
 		(layer "F.Cu")
 		(net 102)
 		(uuid "5f402bc9-0a0f-444d-83fe-2e7c29535955")
+	)
+	(segment
+		(start 135.2 110.5)
+		(end 135.4 110.7)
+		(width 0.5)
+		(layer "F.Cu")
+		(net 102)
+		(uuid "9ea3f5a4-d4e5-4f04-b77e-f4cbeacd0187")
+	)
+	(segment
+		(start 135.2 109.25)
+		(end 135.2 110.5)
+		(width 0.5)
+		(layer "F.Cu")
+		(net 102)
+		(uuid "b9a749d9-8e41-43b5-95fe-d48c39c6b02f")
 	)
 	(segment
 		(start 133.42 108.2)

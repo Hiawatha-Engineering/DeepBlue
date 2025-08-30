@@ -89,3 +89,12 @@ to protect the LED in case the boost converter is slightly off. To avoid
 resizing the PCB I also move up the bottom so it fits snug in the case.
 
 **Total time spent: 30m**
+
+# August 26th: Ground Plane
+
+Bear added a groundplane to the back of the PCB while adjusting some of the
+routes. He also adjusted the positioning of the RGB Display port to make sure
+everything would be aligned when produced.
+
+**Total time spent: 1h**
+
