@@ -12419,7 +12419,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "00000000-0000-0000-0000-000059ad464a")
 		(property "Reference" "J1"
 			(at 67.31 22.4598 0)
@@ -12600,7 +12600,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "0119ffac-7096-4a65-8582-ced9276751af")
 		(property "Reference" "SW13"
 			(at 157.48 89.916 0)
@@ -12667,7 +12667,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "04b50180-aea9-4a5e-b06f-b3ae4212c59b")
 		(property "Reference" "SW8"
 			(at 177.8 67.056 0)
@@ -12782,7 +12782,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 205.74 102.87 90)
 			(effects
 				(font
@@ -12861,7 +12861,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 205.74 91.44 90)
 			(effects
 				(font
@@ -12892,7 +12892,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "1c279176-dc09-4134-aabb-08f39b3d84f7")
 		(property "Reference" "SW18"
 			(at 198.12 101.346 0)
@@ -13007,7 +13007,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5213762"
+		(property "LCSC Part #" "C5213762"
 			(at 534.67 93.98 0)
 			(effects
 				(font
@@ -13155,7 +13155,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "27020194-6000-46c1-b6d8-98b3376e0e7d")
 		(property "Reference" "SW17"
 			(at 177.8 101.346 0)
@@ -13267,7 +13267,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C246085"
+		(property "LCSC Part #" "C246085"
 			(at 455.93 67.31 0)
 			(effects
 				(font
@@ -13545,7 +13545,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C863039"
+		(property "LCSC Part #" "C863039"
 			(at 520.7 142.24 90)
 			(effects
 				(font
@@ -13624,7 +13624,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 205.74 68.58 90)
 			(effects
 				(font
@@ -13655,7 +13655,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "48b3ff45-1132-43b1-916b-6f2712595099")
 		(property "Reference" "SW12"
 			(at 198.12 78.486 0)
@@ -13770,7 +13770,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 205.74 80.01 90)
 			(effects
 				(font
@@ -13801,7 +13801,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "4ddd221d-43a8-4d3c-bf95-e2bf118f181f")
 		(property "Reference" "SW11"
 			(at 177.8 78.486 0)
@@ -13934,7 +13934,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "57024cfd-9444-4f61-8dc4-dc1c83eff550")
 		(property "Reference" "SW1"
 			(at 157.48 44.196 0)
@@ -14190,7 +14190,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "5bcc0ebc-76d1-4962-9fe2-dd351442cc54")
 		(property "Reference" "SW5"
 			(at 177.8 55.626 0)
@@ -14305,7 +14305,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 165.1 68.58 90)
 			(effects
 				(font
@@ -14384,7 +14384,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 165.1 80.01 90)
 			(effects
 				(font
@@ -14526,7 +14526,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 185.42 45.72 90)
 			(effects
 				(font
@@ -14605,7 +14605,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C15849"
+		(property "LCSC Part #" "C15849"
 			(at 472.44 142.24 0)
 			(effects
 				(font
@@ -14684,7 +14684,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 165.1 102.87 90)
 			(effects
 				(font
@@ -14763,7 +14763,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 185.42 102.87 90)
 			(effects
 				(font
@@ -14857,7 +14857,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8564aa3a-43da-4b47-9113-8d172cceaae0")
 		(property "Reference" "SW9"
 			(at 198.12 67.056 0)
@@ -14970,7 +14970,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C77337"
+		(property "LCSC Part #" "C77337"
 			(at 502.92 138.43 0)
 			(effects
 				(font
@@ -15049,7 +15049,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 205.74 45.72 90)
 			(effects
 				(font
@@ -15128,7 +15128,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 165.1 45.72 90)
 			(effects
 				(font
@@ -15207,7 +15207,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 165.1 91.44 90)
 			(effects
 				(font
@@ -15238,7 +15238,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "8bbbfd99-6814-4484-a9b5-5ad1e591ba58")
 		(property "Reference" "SW14"
 			(at 177.8 89.916 0)
@@ -15353,7 +15353,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 165.1 57.15 90)
 			(effects
 				(font
@@ -15493,7 +15493,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C122568"
+		(property "LCSC Part #" "C122568"
 			(at 488.95 154.94 0)
 			(effects
 				(font
@@ -15539,7 +15539,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "99ac58bd-3641-4e16-a3c9-c3a885c04e3d")
 		(property "Reference" "SW2"
 			(at 177.8 44.196 0)
@@ -15654,7 +15654,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 185.42 91.44 90)
 			(effects
 				(font
@@ -15733,7 +15733,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C20092485"
+		(property "LCSC Part #" "C20092485"
 			(at 504.19 156.21 0)
 			(effects
 				(font
@@ -15764,7 +15764,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b1d3d4cb-a11c-4ba7-a4c1-33d03bb3c533")
 		(property "Reference" "SW15"
 			(at 198.12 89.916 0)
@@ -15831,7 +15831,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "b34e7d08-fbc6-4e93-ad51-db44e4d85670")
 		(property "Reference" "SW10"
 			(at 157.48 78.486 0)
@@ -15946,7 +15946,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C66660"
+		(property "LCSC Part #" "C66660"
 			(at 416.56 99.06 0)
 			(effects
 				(font
@@ -16067,7 +16067,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 185.42 68.58 90)
 			(effects
 				(font
@@ -16146,7 +16146,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C15849"
+		(property "LCSC Part #" "C15849"
 			(at 508 142.24 0)
 			(effects
 				(font
@@ -16369,7 +16369,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "cb278b1e-866e-44b7-b077-bb64e617e842")
 		(property "Reference" "SW16"
 			(at 157.48 101.346 0)
@@ -16484,7 +16484,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C21120"
+		(property "LCSC Part #" "C21120"
 			(at 464.82 157.48 90)
 			(effects
 				(font
@@ -16561,7 +16561,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C9391"
+		(property "LCSC Part #" "C9391"
 			(at 488.95 138.43 90)
 			(effects
 				(font
@@ -16655,7 +16655,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "e654c49e-57ac-48ab-9569-9b8ef5166ad2")
 		(property "Reference" "SW4"
 			(at 157.48 55.626 0)
@@ -16770,7 +16770,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 205.74 57.15 90)
 			(effects
 				(font
@@ -16849,7 +16849,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 185.42 57.15 90)
 			(effects
 				(font
@@ -16946,7 +16946,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f23b6088-4053-4388-9971-bd2794ef30ec")
 		(property "Reference" "SW7"
 			(at 157.48 67.056 0)
@@ -17013,7 +17013,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f2a2f700-571e-43dc-bf7a-53ab9b291f53")
 		(property "Reference" "SW3"
 			(at 198.12 44.196 0)
@@ -17128,7 +17128,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2128"
+		(property "LCSC Part #" "C2128"
 			(at 185.42 80.01 90)
 			(effects
 				(font
@@ -17159,7 +17159,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "fd4bf5bc-36c8-4753-93a7-79f596319d66")
 		(property "Reference" "SW6"
 			(at 198.12 55.626 0)
