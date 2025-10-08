@@ -1011,7 +1011,7 @@
 		(symbol "TL040WVS03-H1263A_1_1"
 			(rectangle
 				(start -1.27 49.53)
-				(end 12.7 -52.07)
+				(end 20.32 -52.07)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -1458,26 +1458,6 @@
 				)
 				(fill
 					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy -1.016 -52.832) (xy 1.016 -52.832)
-				)
-				(stroke
-					(width 0.1524)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(text "Mounting"
-				(at 0 -52.451 0)
-				(effects
-					(font
-						(size 0.381 0.381)
-					)
 				)
 			)
 			(pin passive line
@@ -2210,7 +2190,25 @@
 						)
 					)
 				)
-				(number "MP"
+				(number "41"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 15.24 -55.88 90)
+				(length 3.048)
+				(name "MountPin"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "42"
 					(effects
 						(font
 							(size 1.27 1.27)

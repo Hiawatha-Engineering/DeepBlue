@@ -3883,7 +3883,7 @@
 			(symbol "TL040WVS03-H1263A_1_1"
 				(rectangle
 					(start -1.27 49.53)
-					(end 12.7 -52.07)
+					(end 20.32 -52.07)
 					(stroke
 						(width 0.254)
 						(type default)
@@ -4330,26 +4330,6 @@
 					)
 					(fill
 						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.016 -52.832) (xy 1.016 -52.832)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(text "Mounting"
-					(at 0 -52.451 0)
-					(effects
-						(font
-							(size 0.381 0.381)
-						)
 					)
 				)
 				(pin passive line
@@ -5082,7 +5062,25 @@
 							)
 						)
 					)
-					(number "MP"
+					(number "41"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 15.24 -55.88 90)
+					(length 3.048)
+					(name "MountPin"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "42"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -12980,7 +12978,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_FFC-FPC:Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal"
+		(property "Footprint" "EasyEDA:CONN-SMD_40P-P0.50_HCTL_HC-FPC-05-09-40RLTAG"
 			(at 534.67 93.98 0)
 			(effects
 				(font
@@ -13046,7 +13044,7 @@
 		(pin "6"
 			(uuid "d082d1e6-5d43-4535-a306-750e13f3cfd4")
 		)
-		(pin "MP"
+		(pin "41"
 			(uuid "f3ab3bac-fdf5-44ad-9e76-c1d51e0fcf52")
 		)
 		(pin "5"
@@ -13138,6 +13136,9 @@
 		)
 		(pin "39"
 			(uuid "815cd71f-80c8-41af-820c-434044664e50")
+		)
+		(pin "42"
+			(uuid "597ee045-2a87-4662-90f8-26cc5ff0732d")
 		)
 		(instances
 			(project ""
@@ -14245,6 +14246,72 @@
 			(project "PiPhoneV0"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "SW5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 549.91 38.1 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "633b3df3-a371-4bd1-a125-f750418070bf")
+		(property "Reference" "#PWR07"
+			(at 549.91 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 549.91 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 549.91 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 549.91 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 549.91 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9ff1ddfc-40d0-451f-8d5d-26f57594e6b4")
+		)
+		(instances
+			(project "PiPhoneV0"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -15733,7 +15800,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C20092485"
+		(property "LCSC Part #" "C6145550"
 			(at 504.19 156.21 0)
 			(effects
 				(font
@@ -15919,7 +15986,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_FFC-FPC:Molex_200528-0150_1x15-1MP_P1.00mm_Horizontal"
+		(property "Footprint" "EasyEDA:FPC-SMD_15P-P1.00_HDGC_1.0K-GT-15PB"
 			(at 416.56 99.06 0)
 			(effects
 				(font
@@ -15946,7 +16013,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C66660"
+		(property "LCSC Part #" "C2915527"
 			(at 416.56 99.06 0)
 			(effects
 				(font

@@ -4,4 +4,5 @@
   (lib (name "1 key-switches.pretty")(type "KiCad")(uri "${KIPRJMOD}/key-switches.pretty")(options "")(descr ""))
   (lib (name "FFC")(type "KiCad")(uri "${KIPRJMOD}/Connector_FFC-FPC.pretty")(options "")(descr ""))
   (lib (name "TPS61161DRVR")(type "KiCad")(uri "${KIPRJMOD}/ul_TPS61161DRVR/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "EasyEDA")(type "KiCad")(uri "${KIPRJMOD}/EasyEDA.pretty")(options "")(descr ""))
 )
