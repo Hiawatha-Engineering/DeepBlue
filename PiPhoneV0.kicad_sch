@@ -12598,7 +12598,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "0119ffac-7096-4a65-8582-ced9276751af")
 		(property "Reference" "SW13"
 			(at 157.48 89.916 0)
@@ -12665,7 +12665,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "04b50180-aea9-4a5e-b06f-b3ae4212c59b")
 		(property "Reference" "SW8"
 			(at 177.8 67.056 0)
@@ -12890,7 +12890,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "1c279176-dc09-4134-aabb-08f39b3d84f7")
 		(property "Reference" "SW18"
 			(at 198.12 101.346 0)
@@ -13156,7 +13156,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "27020194-6000-46c1-b6d8-98b3376e0e7d")
 		(property "Reference" "SW17"
 			(at 177.8 101.346 0)
@@ -13241,7 +13241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:QFN-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm"
+		(property "Footprint" "EasyEDA:QFN-48_L6.0-W6.0-P0.40-TL-EP4.2"
 			(at 455.93 67.31 0)
 			(effects
 				(font
@@ -13656,7 +13656,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "48b3ff45-1132-43b1-916b-6f2712595099")
 		(property "Reference" "SW12"
 			(at 198.12 78.486 0)
@@ -13802,7 +13802,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "4ddd221d-43a8-4d3c-bf95-e2bf118f181f")
 		(property "Reference" "SW11"
 			(at 177.8 78.486 0)
@@ -13935,7 +13935,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "57024cfd-9444-4f61-8dc4-dc1c83eff550")
 		(property "Reference" "SW1"
 			(at 157.48 44.196 0)
@@ -14191,7 +14191,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "5bcc0ebc-76d1-4962-9fe2-dd351442cc54")
 		(property "Reference" "SW5"
 			(at 177.8 55.626 0)
@@ -14924,7 +14924,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "8564aa3a-43da-4b47-9113-8d172cceaae0")
 		(property "Reference" "SW9"
 			(at 198.12 67.056 0)
@@ -15305,7 +15305,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "8bbbfd99-6814-4484-a9b5-5ad1e591ba58")
 		(property "Reference" "SW14"
 			(at 177.8 89.916 0)
@@ -15606,7 +15606,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "99ac58bd-3641-4e16-a3c9-c3a885c04e3d")
 		(property "Reference" "SW2"
 			(at 177.8 44.196 0)
@@ -15831,7 +15831,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "b1d3d4cb-a11c-4ba7-a4c1-33d03bb3c533")
 		(property "Reference" "SW15"
 			(at 198.12 89.916 0)
@@ -15898,7 +15898,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "b34e7d08-fbc6-4e93-ad51-db44e4d85670")
 		(property "Reference" "SW10"
 			(at 157.48 78.486 0)
@@ -16436,7 +16436,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "cb278b1e-866e-44b7-b077-bb64e617e842")
 		(property "Reference" "SW16"
 			(at 157.48 101.346 0)
@@ -16601,7 +16601,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_6.3x6.3_H3"
+		(property "Footprint" "EasyEDA:IND-SMD_L5.0-W5.0-P3.60_SMNR5040"
 			(at 488.95 138.43 0)
 			(effects
 				(font
@@ -16722,7 +16722,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "e654c49e-57ac-48ab-9569-9b8ef5166ad2")
 		(property "Reference" "SW4"
 			(at 157.48 55.626 0)
@@ -17013,7 +17013,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f23b6088-4053-4388-9971-bd2794ef30ec")
 		(property "Reference" "SW7"
 			(at 157.48 67.056 0)
@@ -17080,7 +17080,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "f2a2f700-571e-43dc-bf7a-53ab9b291f53")
 		(property "Reference" "SW3"
 			(at 198.12 44.196 0)
@@ -17226,7 +17226,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "fd4bf5bc-36c8-4753-93a7-79f596319d66")
 		(property "Reference" "SW6"
 			(at 198.12 55.626 0)
